@@ -1,6 +1,6 @@
 ### Valentin Famery 👋
 
-<!-- I am an expert in compiled and typed technologies/Je suis expert en technologies compilées et typées. -->
+I am an expert in compiled and typed technologies/Je suis expert en technologies compilées et typées.
 
 ## Stack Technique
 
