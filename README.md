@@ -16,18 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+  <div class="column">Première Colonne</div>
+  <div class="column">Seconde Colonne</div>
 </div> 
 
-.column {
-  float: left;
-  width: 50%;
-}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
