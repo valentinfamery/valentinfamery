@@ -1,23 +1,17 @@
-## Hi there 👋
+### Valentin Famery 👋
 
-<!--
-**valentinfamery/valentinfamery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- I am an expert in compiled and typed technologies/Je suis expert en technologies compilées et typées. -->
 
-Here are some ideas to get you started:
+## Stack Technique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Languages/Langages  |Web                |Mobile   |Cross-platform       |Server/Serveur    |Cloud     |Data/Données  |Deployment/Déploiement    |
+|--                  |--                 |--       |--                   |--                |--        |--            |--                        |
+|C#                  |ASP.NET            |Android  |Kotlin Multiplatform |Arch Linux        |Docker    |PostgreSQL    |Github Actions            | 
+|Kotlin              |Blazor WebAssembly |         |.NET MAUI            |Bash              |          |SQLite        |                          |     
+|Java                |Blazor Server      |         |                     |Traefik           |          |              |                          |
+|HTML/CSS            |                   |         |                     |                  |          |              |                          |             
+|C++                 |                   |         |                     |                  |          |              |                          |             
 
-<div class="row">
-  <div class="column">Première Colonne</div>
-  <div class="column">Seconde Colonne</div>
-</div> 
+## Projects/Projets
 
 
