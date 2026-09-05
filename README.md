@@ -14,9 +14,6 @@ I am an expert in compiled and typed technologies/Je suis expert en technologies
 
 ## Projects/Projets
 
-# X_Clone
-Un clone web de X/Twitter 
-
 # RealEstateManager
 Une application Android destinée a des agents immobiliers leur
 permettant d'organiser et de stockers les fiches des biens
